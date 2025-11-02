@@ -1,7 +1,7 @@
 <!-- IMAGYN : THE GalleryGram -->
 <div align="center">
   <img src="https://imagyn-swart.vercel.app/assets/hero/hero1.jpg" alt="Imagyn Hero" width="800" />
-  <h1>📸 Imagyn — Personal Gallery by Nilam Chakraborty</h1>
+  <h1>Imagyn : Personal Gallery by Nilam Chakraborty</h1>
   <p>A modern, minimalistic, and smooth personal photo gallery web app built with React + Vite + Bootstrap.</p>
 
   <a href="https://imagyn-swart.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Imagyn%20🌐-blue?style=for-the-badge" /></a>
