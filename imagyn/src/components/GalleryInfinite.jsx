@@ -4,7 +4,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
  * Fixed GalleryInfinite
  * 
  * - import.meta.glob() must use a literal path, so we map gallery names to known folders
- * - Supports 'certificates', 'coding', and 'misc' sectionsSS
+ * - Supports 'certificates', 'coding', and 'misc' sectionsSSss
  */
 
 export default function GalleryInfinite({
