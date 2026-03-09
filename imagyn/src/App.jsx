@@ -1,7 +1,7 @@
 import React from "react";
 import Hero from "./components/Hero";
 import GalleryButtons from "./components/GalleryButtons";
-import Lightbox from "./components/Lightbox"; // optional if you’re keeping the zoom feature
+import Lightbox from "./components/Lightbox"; // optional if you’re keeping the zoom featuredsd
 
 export default function App() {
   return (
