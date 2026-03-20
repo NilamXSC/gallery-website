@@ -11,7 +11,7 @@
 
 ---
 
-## ✨ Overview
+## ✨ Overviewh
 
 **Imagyn** is a **personal digital gallery** for showcasing photos, certificates, hackathon snapshots, and nature clicks — built with the goal of evolving into a full-fledged **social photo-sharing platform** like Instagram.
 
