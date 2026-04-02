@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import Lightbox from "./Lightbox";
 
    
-/* literal globs forsssssssssss Vite */
+/* literal globs for Vite */
 const certImports = import.meta.glob("../assets/certificates/*.{jpg,jpeg,png}", { eager: true, import: "default" });
 const codingImports = import.meta.glob("../assets/coding/*.{jpg,jpeg,png}", { eager: true, import: "default" });
 const miscImports = import.meta.glob("../assets/misc/*.{jpg,jpeg,png}", { eager: true, import: "default" });
