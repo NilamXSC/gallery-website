@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import Lightbox from "./Lightbox";
 
-   
 /* literal globs for Vite */
 const certImports = import.meta.glob("../assets/certificates/*.{jpg,jpeg,png}", { eager: true, import: "default" });
 const codingImports = import.meta.glob("../assets/coding/*.{jpg,jpeg,png}", { eager: true, import: "default" });
