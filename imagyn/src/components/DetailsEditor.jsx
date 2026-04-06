@@ -5,7 +5,7 @@ import React, { useEffect, useState } from "react";
   Usage: import and render this component somewhere only you can access (e.g., route /admin or hidden UI).
 */
 
-const DETAILS_KEY = "imagyn_details";
+const DETAILS_KEY = "imagyssn_details";
 
 export default function DetailsEditor({ images = [] }) {
   const [map, setMap] = useState({});
