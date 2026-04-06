@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 /*
-  DetailsEditor — simple admin/edisssssssstor to edit details for every image and save to localStorage.
+  DetailsEditor — simple admin/editor to edit details for every image and save to localStorage.
   Usage: import and render this component somewhere only you can access (e.g., route /admin or hidden UI).
 */
 
